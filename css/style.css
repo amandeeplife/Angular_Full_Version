@@ -846,7 +846,7 @@ fieldset[disabled] .btn-link.active {
 }
 .btn-white {
     color: inherit;
-    background: white;
+    background: #f9b625;
     border: 1px solid #e7eaec;
 }
 .btn-white:hover,
@@ -999,12 +999,12 @@ button.dim:active:before {
 }
 .label-primary,
 .badge-primary {
-    background-color: #007398;
+    background-color: #f9b625;
     color: #FFFFFF;
 }
 .label-success,
 .badge-success {
-    background-color: #1c84c6;
+    background-color: #f9cb2c;
     color: #FFFFFF;
 }
 .label-warning,
