@@ -50,7 +50,8 @@
                                 </ul>
                             </div>
                         </div>
-                        <div class="col-sm-3">
+                        <a class="btn btn-primary btn-rounded" href="">+ ADD</a>
+                        <div class="col-sm-7">
                             <div class="input-group"><input type="text" placeholder="Search" class="input-sm form-control"> <span class="input-group-btn">
                                         <button type="button" class="btn btn-sm btn-primary"> Go!</button> </span></div>
                         </div>
@@ -123,6 +124,8 @@
                     </tr>
                     </tbody>
                 </table>
+                <pagination total-items="main.bigTotalItems" ng-model="main.bigCurrentPage" max-size="main.maxSize" class="pagination-sm" boundary-links="true"></pagination>
+                <pre>Page: {{main.bigCurrentPage}}</pre>
             </div>
         </div>
         <div class="col-lg-4" >
