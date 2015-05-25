@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c84e3c2a-be8a-4b72-b673-8613f21a5529" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/login_two_columns.html" afterPath="$PROJECT_DIR$/login_two_columns.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/register.html" afterPath="$PROJECT_DIR$/register.html" />
-    </list>
+    <list default="true" id="c84e3c2a-be8a-4b72-b673-8613f21a5529" name="Default" comment="" />
     <ignored path="Angular_Full_Version.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -45,19 +40,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="register.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="register.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/register.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="60" column="0" selection-start="1966" selection-end="1967" vertical-scroll-proportion="-14.461538">
+            <state line="60" column="0" selection-start="1966" selection-end="1967" vertical-scroll-proportion="-0.4793233">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1001" column="0" selection-start="22930" selection-end="22930" vertical-scroll-proportion="0.3653846">
+            <state line="1001" column="0" selection-start="22930" selection-end="22930" vertical-scroll-proportion="-7.6">
               <folding />
             </state>
           </provider>
@@ -518,16 +513,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/register.html">
+    <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="60" column="0" selection-start="1966" selection-end="1967" vertical-scroll-proportion="-14.461538">
+        <state line="1001" column="0" selection-start="22930" selection-end="22930" vertical-scroll-proportion="-7.6">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
+    <entry file="file://$PROJECT_DIR$/register.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1001" column="0" selection-start="22930" selection-end="22930" vertical-scroll-proportion="0.3653846">
+        <state line="60" column="0" selection-start="1966" selection-end="1967" vertical-scroll-proportion="-0.4793233">
           <folding />
         </state>
       </provider>
